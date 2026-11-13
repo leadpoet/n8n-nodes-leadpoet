@@ -1,6 +1,11 @@
 # Changelog
 
-## Unreleased
+## 0.1.1
+
+- Published from GitHub Actions with npm provenance, as n8n requires.
+  No code changes from 0.1.0.
+
+## 0.1.0
 
 - First release of the Leadpoet node.
 - Leadpoet API credential (API key), tested with `GET /me`.
