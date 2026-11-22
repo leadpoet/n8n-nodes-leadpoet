@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2
+
+- README no longer mentions a Free plan. No code changes from 0.1.1.
+
 ## 0.1.1
 
 - Published from GitHub Actions with npm provenance, as n8n requires.
