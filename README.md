@@ -26,7 +26,7 @@ In n8n, open **Settings → Community Nodes → Install** and enter
 The node uses a Leadpoet API key.
 
 1. In Leadpoet, open **Settings → Developer → API keys**. The workspace owner
-   and team admins can create keys. Every plan, Free included, has API access.
+   and team admins can create keys. Every plan has API access.
 2. Create a key and choose only the permissions your workflow needs:
    - `pipeline:read` for Company, Contact, Deal and Signal reads
    - `pipeline:write` for Company Update, Add Note, Add Task, Find Email or
